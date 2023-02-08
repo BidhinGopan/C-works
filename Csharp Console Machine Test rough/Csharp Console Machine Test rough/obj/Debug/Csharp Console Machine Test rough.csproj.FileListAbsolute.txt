@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\bin\Debug\Csharp Console Machine Test rough.exe.config
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\bin\Debug\Csharp Console Machine Test rough.exe
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\bin\Debug\Csharp Console Machine Test rough.pdb
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\obj\Debug\Csharp Console Machine Test rough.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\obj\Debug\Csharp Console Machine Test rough.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\obj\Debug\Csharp Console Machine Test rough.exe
+C:\Users\User\Desktop\Propel DEC 2022\C#\Csharp Console Machine Test rough\Csharp Console Machine Test rough\obj\Debug\Csharp Console Machine Test rough.pdb
